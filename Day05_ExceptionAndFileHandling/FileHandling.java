@@ -43,6 +43,5 @@ public class FileHandling {
         } else {
             System.out.println("some error");
         }
-
     }
 }
